@@ -1,2 +1,2 @@
 # DSA
-Cover DSA topic and solve related problem.
+Solve DSA Problem.
